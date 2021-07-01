@@ -1,6 +1,6 @@
-# TP4 - NT2
+# NT2 - 21D - Jusid
 
-## Trabajo práctico para la materia Nuevas Tecnologías 2
+## Entrega para la materia Nuevas Tecnologías 2
 
 ### Project setup
 ```
